@@ -1,0 +1,10 @@
+<resources>
+    <string name="contract_address">com.example.smtt.CONTRACT_ADDRESS</string>
+    <string name="node_url">com.example.smtt.NODE_URL</string>
+    <string name="user_eth_address">com.example.smtt.ETH_ADDRESS</string>
+    <string name="user_eth_private_key">com.example.smtt.ETH_PRIVATE_KEY</string>
+    <string name="user_publicKey">com.example.smtt.PUBLIC_KEY</string>
+    <string name="user_privateKey">com.example.smtt.PRIVATE_KEY</string>
+    <string name="beacon_id">com.example.smtt.BEACON_ID</string>
+    <string name="beacon_psk">com.example.smtt.BEACON_PSK</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_my_search_tasks.xml" value="0.25677083333333334" />
+        <entry key="app/src/main/res/layout/activity_my_sightings.xml" value="0.32864583333333336" />
+        <entry key="app/src/main/res/layout/activity_pol_info.xml" value="0.2375" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.36302083333333335" />
+        <entry key="app/src/main/res/layout/activity_report_sighting.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/activity_report_witness_sighting.xml" value="0.35208333333333336" />
+        <entry key="app/src/main/res/layout/activity_reveal_secret.xml" value="0.35208333333333336" />
+        <entry key="app/src/main/res/layout/activity_sighting_info.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_start_search_task.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/content_report_sighting.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/device_list_entry.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/layout/list_device_entry.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/layout/my_sightings_list_item.xml" value="0.32864583333333336" />
+        <entry key="app/src/main/res/layout/sighting_list_item.xml" value="0.215625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
