@@ -1,5 +1,4 @@
 # Design and Implementation of a Secure Mobile Target Tracking System Using Smart Contracts
-===
 ## Android
 ### Neccessary changes
 Inside the RegisterActivity.java file you can change all neccesary data for the ethereum node address, user data and beacon data.
